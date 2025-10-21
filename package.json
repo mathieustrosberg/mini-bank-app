@@ -1,0 +1,7 @@
+{
+  "name": "mini-bank-app",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
